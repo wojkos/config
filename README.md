@@ -6,6 +6,7 @@ Topics I should check learn
 - [ ] Dry validation
 - [ ] Rspec
 - [ ] CQRS
+- [ ] GraphQL
 
 # Gems
 
